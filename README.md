@@ -3,7 +3,7 @@
 
 [DEMO LINK] (https://Yurii837.github.io/miamy-landing/)
 
-Technologies: HTML5, CSS3, Sass (SCSS), JSON
+Technologies: HTML5, CSS3, Sass (SCSS), JavaScript, JSON
 
 IDE: VSCode, Chrome DevTools
 
